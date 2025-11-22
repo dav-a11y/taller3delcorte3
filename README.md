@@ -1,4 +1,4 @@
-# Laboratorio del 3er Corte - Digitales 3
+# Taller del 3er Corte - Digitales 3
 
 **Autores:** David Díaz, Jhonatan Vargas, David Lopez  
 **Fecha:** Noviembre 2025  
